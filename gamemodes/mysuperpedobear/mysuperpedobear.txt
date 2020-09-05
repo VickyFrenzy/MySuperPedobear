@@ -1,0 +1,5 @@
+"mysuperpedobear"
+{
+	"base"		"superpedobear"
+	"title"		"My SuperPedobear"
+}
